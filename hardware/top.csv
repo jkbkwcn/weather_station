@@ -1,0 +1,23 @@
+﻿Board Layer Stack
+Number;Name;Type;Manufacturer;Material;Process;Thickness (mil);Weight (oz);Dk;Df;Orientation;Copper Orientation;Pullback distance (mil);Description;Constructions;Resin (%);Frequency (GHz);GlassTransTemp (°F)
+;Top Overlay;Overlay;;;;;;;;;;;;;;;
+;Top Solder;Solder Mask;;Solder Resist;;0.6;;3.8;;;;;;;;;
+1;Top (Sig);Signal;;;;1.378;1;;;Top;Above;;;;;;
+;PP1_7628;Prepreg;Altium Designer;PP-006;;8.284;;4.4;0.02;;;;;1080;62;1;356
+2;In1 (GND);Plane;Altium Designer;CF-004;ED;0.598;0.5;;;;Above;20;Copper Foil;;;;
+;Core_FR4;Core;;FR-4;;41.929;;4.6;;;;;;;;;
+3;In2 (PWR);Signal;Altium Designer;CF-004;ED;0.598;0.5;;;Not allowed;Below;;Copper Foil;;;;
+;PP2_7628;Prepreg;Altium Designer;PP-006;;8.284;;4.4;0.02;;;;;1080;62;1;356
+4;Bottom (Sig);Signal;;;;1.378;1;;;Bottom;Below;;;;;;
+;Bottom Solder;Solder Mask;;Solder Resist;;0.6;;3.8;;;;;;;;;
+;Bottom Overlay;Overlay;;;;;;;;;;;;;;;
+
+
+No impedances
+
+Via types
+#;Name;Type;Layers;Stack
+1;Thru 1:4;Thru;Top (Sig)-Bottom (Sig);Board Layer Stack
+
+
+No back drills

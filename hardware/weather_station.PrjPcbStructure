@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=Crystals|SchDesignator=Crystals|FileName=osc.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=osc.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=I2C Sensors|SchDesignator=I2C Sensors|FileName=sens.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=sens.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=top.SchDoc|Designator=RF Matching and Antenna|SchDesignator=RF Matching and Antenna|FileName=rf.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=rf.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
